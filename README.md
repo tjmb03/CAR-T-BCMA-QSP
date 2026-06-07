@@ -10,7 +10,7 @@ BCMA-directed CAR-T drives deep responses in multiple myeloma, but relapse is co
 
 The model is implemented independently in two ecosystems and **cross-validated to machine precision** (R / `rxode2` ↔ Julia / `DifferentialEquations.jl`, with a third `scipy` solve as a neutral anchor). A parallel Julia track explores an alternative contraction mechanism — T-cell exhaustion — and the structural-identifiability and tipping-point questions that come with it.
 
-![Model schematic](figures/model-schematic.svg)
+![Model schematic](figures/model-schematic.png)
 
 ## The mechanism
 
