@@ -78,7 +78,3 @@ A staged `nlmixr2` population model is specified on the canonical structure — 
 ## Scope
 
 Parameters are **illustrative and literature-anchored, not fitted clinical estimates**; trajectories are mechanistic, not patient predictions. This is a research and methods demonstration, not a clinical decision tool.
-
-## License & citation
-
-Reports, figures, and documentation released under [CC BY 4.0](LICENSE). If you reference this work, see [`CITATION.cff`](CITATION.cff).
