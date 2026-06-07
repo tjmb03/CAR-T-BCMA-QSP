@@ -6,7 +6,7 @@
 > and does not reflect the proprietary methods, data, or intellectual 
 > property of any employer or collaborator.
 > 
-> This repository is released under the [MIT License](LICENSE).
+> This repository is released under the [CC BY 4.0](LICENSE).
 > © 2026 Bo Ma (tjmb03). Reuse with attribution.
 
 # CAR-T-BCMA-QSP
