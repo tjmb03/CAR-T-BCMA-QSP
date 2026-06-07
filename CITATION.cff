@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "CAR-T-BCMA-QSP: a mechanistic QSP model of BCMA-directed CAR-T in multiple myeloma"
+abstract: >-
+  A six-state mechanistic quantitative systems pharmacology (QSP) model of
+  BCMA-directed CAR-T therapy in multiple myeloma, capturing antigen-stratified
+  tumor kill, soluble-BCMA competition, and lymphodepletion-niche dynamics. The
+  model is implemented independently in R (rxode2) and Julia
+  (DifferentialEquations.jl) and cross-validated to machine precision, with
+  identifiability and global sensitivity analysis and an nlmixr2 population
+  model. Parameters are illustrative and literature-anchored, not fitted clinical
+  estimates.
+type: software
+authors:
+  - given-names: "Bo"
+    family-names: "Ma"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # optional
+repository-code: "https://github.com/tjmb03/CAR-T-BCMA-QSP"
+url: "https://tjmb03.github.io/CAR-T-BCMA-QSP/"
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-06-07"
+keywords:
+  - quantitative systems pharmacology
+  - pharmacometrics
+  - CAR-T
+  - BCMA
+  - multiple myeloma
+  - antigen escape
+  - cross-validation
+  - rxode2
+  - Julia
+  - nlmixr2
